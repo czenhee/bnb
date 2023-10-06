@@ -25,7 +25,13 @@ header {
     justify-content: space-between;
     align-items: center;
     z-index: 99;
-    
+
+}
+header nav {
+    margin: 10px;
+}
+header nav a {
+    padding: 15px;
 }
 
 .navigation a {
